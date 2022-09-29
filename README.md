@@ -4,4 +4,8 @@ Welcome to my github profile ! I'm Exodouding, currently learning new programati
 
 ### 🔗 Contact Information
 
+![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png) - https://twitter.com/Exodouding
+![Reddit](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Reddit.png) - 
+![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png)
+![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png)
 ![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png)
