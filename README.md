@@ -4,4 +4,4 @@ Welcome to my github profile ! I'm Exodouding, currently learning new programati
 
 <h3 align="left">🔗 Contact Information:</h3>
 <p align="left">
-![Twitter](https://github.com/Exodouding/Exodouding/blob/main/Twitter.png)
+![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png)
