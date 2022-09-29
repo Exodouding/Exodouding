@@ -4,12 +4,12 @@ Welcome to my github profile ! I'm Exodouding, currently learning new programati
 
 ### 🔗 Contact Information
 
-•![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png) **Twitter** - https://twitter.com/Exodouding
+• ![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Twitter.png) **Twitter** - https://twitter.com/Exodouding
 
-•![Reddit](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Reddit.png) **Reddit** - https://www.reddit.com/user/Exodouding
+• ![Reddit](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Reddit.png) **Reddit** - https://www.reddit.com/user/Exodouding
 
-•![Instagram](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Instagram.png) **Instagram** - https://www.instagram.com/exodouding/
+• ![Instagram](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Instagram.png) **Instagram** - https://www.instagram.com/exodouding/
 
-•![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Youtube.png) **Youtube** - https://www.youtube.com/c/Exodouding
+• ![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Youtube.png) **Youtube** - https://www.youtube.com/c/Exodouding
 
-•![Telegram](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Telegram.png) **Telegram** - https://t.me/exodouding
+• ![Telegram](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Telegram.png) **Telegram** - https://t.me/exodouding
