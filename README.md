@@ -10,6 +10,6 @@ Welcome to my github profile ! I'm Exodouding, currently learning new programati
 
 • ![Instagram](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Instagram.png) **Instagram** - https://www.instagram.com/exodouding/
 
-• ![Twitter](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Youtube.png) **Youtube** - https://www.youtube.com/c/Exodouding
+• ![Youtube](https://i.imgur.com/Zr0MhNa.png) **Youtube** - https://www.youtube.com/c/Exodouding
 
 • ![Telegram](https://raw.githubusercontent.com/Exodouding/Exodouding/main/Telegram.png) **Telegram** - https://t.me/exodouding
